@@ -1,3 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-mainブランチで変更（コンフリクト発生）
+no fast forward branchに変更
+conflictブランチで変更
+>>>>>>> conflict
